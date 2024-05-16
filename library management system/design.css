@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.wrapper{
+    height: 660px;
+    width: 1380px;
+    background-color: rgb(231, 6, 74);
+}
+header{
+    height: 130px;
+    width: 1370px;
+    background-color: rgb(8, 8, 8);
+}
+section{
+    height: 550px;
+    width: 137opx;
+    background-color: grey;
+}
+footer{
+    height: 80px;
+    width: 1370px;
+    background-color: black;
+}
+.logo{
+    float: left;
+    padding-left: 20px;
+    border-width: 20px;
+    border-radius: 500px;
+}
+.logo img{
+    border-width: 50px;
+    height: 90px;
+    border-radius: 1000px;
+}
+li a{
+ color: azure;
+ text-decoration: none;
+}
+nav{
+    float: right;
+    word-spacing: 80px;
+    padding: 30px;
+}
+nav li{
+    display: inline-block;
+    line-height: 70px;
+}
+.section2{
+    background-image: url("https://media.licdn.com/dms/image/D4E12AQHEOXjA5g24bw/article-cover_image-shrink_720_1280/0/1693422613600?e=2147483647&v=beta&t=24kITRf_tymcYzUlkshIgNKUYfOZ4o2YyEZO-JooicI");
+    background-size: cover ;
+}
+.section1{
+   background-color: azure;
+    background-size: cover ;
+}
+.box{
+    text-align: start;
+    color: rgb(252, 251, 251);
+    height: 300px;
+    width: 450px;  
+    float: left;
+    margin: 70px auto;
+    justify-content: center;
+}
+.log_img{
+    height: 550px;
+    margin-top: 0px;
+    background-image: url("https://www.golegal.co.za/wp-content/uploads/2017/08/Library-Solutions.jpg");
+    background-size: cover;
+}
+.box1{
+    text-align left: 40px;
+    color: rgb(226, 234, 191); 
+    float: left;
+  margin-left: 50px;
+    display: inline;
+    justify-content: center;
+}
+.login{
+    margin: auto 40px;
+}
+    .logo{
+        float: left;
+        padding-left: 10px;
+        border-width: 10px;
+        border-radius: 200;
+}
+
+.h1 a{
+    color:azure;
+    text-decoration: none;
+    word-spacing: 80px;
+    padding: 20px;
+    display: inline-block;
+    line-height: 30px;
+}
+table{
+    color:rgb(253, 248, 248);
+    background-color: rgb(17, 17, 17);
+    margin-left: 100px;
+}
+input{
+    background-color: rgb(42, 126, 165);
+}
+
+    header-section {
+        padding-top: 2px;
+        overflow: hidden
+        background-color:white;
+    }
+nav1{
+    background-color: rgb(33, 33, 233);
+    color: rgb(247, 215, 250);
+}
+.section img{
+  margin-left: 570px;  
+}
+.button1 a{
+    margin: 40px;
+    text-decoration: none;
+}
